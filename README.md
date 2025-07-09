@@ -14,6 +14,8 @@ rustup install 1.87.0
 rustup default 1.87.0
 ```
 ---
+
+```
 📁 Configuration File (config.toml)
 
 username = "xxxxxxx"
